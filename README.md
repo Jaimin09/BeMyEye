@@ -15,6 +15,7 @@ It is a mobile app that:
 * Describes the surrounding to the user.
 ![image captioning](https://user-images.githubusercontent.com/46972935/100105888-ddb7aa80-2e8d-11eb-9c7b-6f86621a74a0.jpg)
 * Detects and reads text from any image given by the user.
+
 ![text-recognition](https://user-images.githubusercontent.com/46972935/100105532-7b5eaa00-2e8d-11eb-8d35-9d43b2c39dc8.jpg)
 
 ### How to use?
